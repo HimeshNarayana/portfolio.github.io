@@ -14,4 +14,4 @@ A personal portfolio website built using HTML and CSS.
 - CSS3 (Flexbox, Grid, Animations, Media Queries)
 
 ## Live Site
-https://HimeshNarayana/portfolio.github.io
+https://HimeshNarayana/.github.io/portfolio
